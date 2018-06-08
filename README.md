@@ -1,5 +1,5 @@
 # UF3366-FdSc-Software-Development
-All projects relating to this course, taken at City College Plymouth (2016-2018)
+All projects relevant to the course, taken at City College Plymouth (2016-2018)
 
 ## Assignments
 * Year 2
